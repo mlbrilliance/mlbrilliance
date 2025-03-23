@@ -1,6 +1,6 @@
 ![alt text](https://github.com/mlbrilliance/mlbrilliance/blob/main/agentic_future.png?raw=true)
 
-## Hi there 👋
+## Hi there, I am Nick Sudh 👋
 
 <!--
 **mlbrilliance/mlbrilliance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
