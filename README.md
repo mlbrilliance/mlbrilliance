@@ -1,3 +1,5 @@
+![alt text](https://github.com/mlbrilliance/mlbrilliance/blob/main/agentic_future.png?raw=true)
+
 ## Hi there 👋
 
 <!--
